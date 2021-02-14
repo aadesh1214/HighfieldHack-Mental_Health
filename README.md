@@ -1,2 +1,4 @@
 # HighfieldHack-Mental_Health
 Link to our website: http://vindhya-11.github.io/MentalHealth/MentalHealthSystem-master/index.html
+## What's next for Mental_Health
+Apollo Mental Health Care aims to collaborate with hospitals and physicians in order to track mental health disorders among primarily the organizations and public in general, with overall objective of achieving higher and better mental health index of the nation. As in India the depression to diagnostics ratio is very poor due to various factors like negligence among people, less availability of physicians, Apollo Mental Health Care comes with an interactive solution in form of chatbot with enables a premature test which quickly but accurately determines the need of further medical support. Our collaboration enables us to give the nearby hospitals and physicians direct contacts in the area.
