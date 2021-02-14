@@ -55,8 +55,8 @@ if(isset($_SESSION['login_user']))
  <body>
    <table id="customers" width="500" border="1" cellpadding="10" cellspacing="0" align="center">
    	<tr>
-        <th colspan ="1">Welcome:<?php echo $_SESSION['login_user'];?></th>
-        <th colspan="1" align="left"><a href="dashboard.php">Back to dashboard</a></th>
+        <th colspan ="1">WELCOME:<?php echo $_SESSION['login_user'];?></th>
+        <th colspan="1" align="left"><a href="dashboard.php">BACK TO DASHBOARD</a></th>
         <th colspan="1" align="right"><a href="index.html">Logout</a></th>
      </tr>
      <tr>
