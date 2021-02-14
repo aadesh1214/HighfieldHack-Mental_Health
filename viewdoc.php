@@ -55,11 +55,11 @@ if(isset($_SESSION['login_user']))
       </tr>
 
      <tr>
-        <th>Doctor's Name</th>
-        <th>Degree</th>
-        <th>Years Of Experience</th>
-        <th>Hospital Address</th>
-        <th>Contact Number</th>
+        <th>DOCTOR'S NAME</th>
+        <th>DEGREE</th>
+        <th>YEARS OF EXPERIENCE</th>
+        <th>HOSPITAL ADDRESS</th>
+        <th>CONTACT NUMBER</th>
       </tr>
         <?php
         if(mysqli_num_rows($result) > 0)
